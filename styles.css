@@ -98,7 +98,6 @@ main {
 }
 
 .heading {
-  border: 1px solid blue;
   font-size: 1.62rem;
   line-height: 2rem;
   color: var(--color-dark-blue);
@@ -106,7 +105,6 @@ main {
 }
 
 .body-text {
-  border: 1px solid red;
   text-indent: 0.2rem;
   line-height: 1.1rem;
   padding-inline: 2rem;
